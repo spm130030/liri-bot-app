@@ -1,0 +1,24 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "serena",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-spotify-api": "^1.0.7",
+    "save": "^2.3.2",
+    "twitter": "^1.7.1"
+  }
+}
